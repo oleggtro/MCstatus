@@ -1,0 +1,6 @@
+main: dev.cloudybyte.mcstatus.MCstatus
+name: MCstatus
+author: cloudybyte
+version: 0.1.0ALPHA
+description: This plugin provides a rest api to get the current players and playercount.
+api-version: "1.16"
