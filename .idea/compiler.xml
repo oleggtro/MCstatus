@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="MCstatusold" />
+        <module name="MCstatus" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="MCstatusold" target="1.8" />
+      <module name="MCstatus" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
