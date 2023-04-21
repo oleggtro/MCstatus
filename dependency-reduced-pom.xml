@@ -4,7 +4,7 @@
   <groupId>dev.cloudybyte.MCstatus</groupId>
   <artifactId>MCstatus</artifactId>
   <name>MCstatus</name>
-  <version>0.1.0ALPHA</version>
+  <version>0.1.1BETA</version>
   <description>This plugin provides a REST Api to get current players and player count</description>
   <url>http://sgray.me/project/spigotplugin</url>
   <build>

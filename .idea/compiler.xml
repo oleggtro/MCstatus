@@ -9,8 +9,5 @@
         <module name="MCstatus" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="MCstatus" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
